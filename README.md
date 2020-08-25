@@ -28,7 +28,7 @@ $ catkin_make
 - sudo apt-get install libsdl1.2-dev
 
 https://github.com/dougvk/tum_simulator
-- use 
+- use ```sudo apt-get install ros-kinetic-ardrone-autonomy```
 
 7. Build the workspace again by:
    $ cd ~/scoutrobot_ws/
