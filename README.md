@@ -24,6 +24,12 @@ $ catkin_make
 
 6. Clone this repository which already contains the modified cvg_sim_gazebo, hector_mapping and octomap_mapping, modified teleop_twist to ~/scoutrobot_ws/src. 
 
+- sudo apt-get install libsdl2-dev
+- sudo apt-get install libsdl1.2-dev
+
+https://github.com/dougvk/tum_simulator
+- use 
+
 7. Build the workspace again by:
    $ cd ~/scoutrobot_ws/
    $ catkin_make
